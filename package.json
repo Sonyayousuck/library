@@ -1,0 +1,19 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonyayousuck/library.git"
+  },
+  "author": "Posatskova Sofya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonyayousuck/library/issues"
+  },
+  "homepage": "https://github.com/Sonyayousuck/library#readme"
+}
